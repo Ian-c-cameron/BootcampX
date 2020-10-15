@@ -11,4 +11,3 @@ FROM (
   GROUP BY cohorts.name
 ) AS assistance_averages
 );
-
